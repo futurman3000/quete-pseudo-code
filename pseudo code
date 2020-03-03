@@ -1,0 +1,15 @@
+Variables
+  nombre
+  n
+
+
+DEBUT
+ 
+  Demander nombre
+  
+  Tant que n <= nombre
+    Afficher "Bienvenue à la wild"
+  Fin Tant que
+
+FIN
+  
